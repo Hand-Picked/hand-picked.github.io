@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+---
+title: hand-picked - Find your leveled-up Devs
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/Hand-Picked/hand-picked.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Hire Selected Developers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Top Companies trust **hand-picked** selected developers skills for their best projects.
 
-### Markdown
+## Why hand-picked?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Only developers that go through our manual vetting process will work on your team. This process includes interviews, demo projects and personal meetings.
 
-```markdown
-Syntax highlighted code block
+Looking for someone taking a **challenge** in a new technology? That's what we are for.
 
-# Header 1
-## Header 2
-### Header 3
+In need of making something that involves your Designers and Product Owners? **hand-picked** Developers can seamlessly work with your team. (Yeah, we are serious about our talent **Communication Skills**.)
 
-- Bulleted
-- List
+## Track record
 
-1. Numbered
-2. List
+### Google Daydream development
 
-**Bold** and _Italic_ and `Code` text
+Our team ported a **VR** platform to Android. Not any developer team can do that.
 
-[Link](url) and ![Image](src)
-```
+### Android Apps
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Android** Developers at **hand-picked** have proven their skills implementing Android Applications using the latest techinques.
 
-### Jekyll Themes
+### Web Applications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hand-Picked/hand-picked.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our developers have worked in **Top E-Commerce** sites for at least five years. Topics like performance, security, REST APIs design and features scalability are in our top of mind.
 
-### Support or Contact
+## Contact us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Send us an email](mailto:contact@hand-picked.io) (`contact@hand-picked.io`) with your Software Development needs.

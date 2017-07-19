@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+$oswald: 'Oswald', sans-serif;
+
+.project-name {
+	font-family: $oswald;
+	font-size: 4rem;
+}
+
+.page-header {
+	background-color: #115cad;
+	background-image: inherit;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #115cad; }
